@@ -11,14 +11,7 @@
         <State name="__root__">
           <Node name="CircleApp" expanded="True">
             <Node name="CircleApp" expanded="True">
-              <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True">
-                  <Node name="Modals" expanded="True" />
-                  <Node name="Navigation" expanded="True" />
-                  <Node name="_Layout.cshtml" expanded="True" />
-                </Node>
-              </Node>
+              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>

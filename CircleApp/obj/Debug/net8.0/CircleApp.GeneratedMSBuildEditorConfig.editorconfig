@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NpZGViYXIvX1N1Z2dlc3RlZEZyaWVuZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Shared/Sidebar/_TrendsForYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1NpZGViYXIvX1RyZW5kc0ZvcllvdS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
