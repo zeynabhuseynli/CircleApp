@@ -1,0 +1,15 @@
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/bin/Debug/net8.0/CircleApp.Data.deps.json
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/bin/Debug/net8.0/CircleApp.Data.runtimeconfig.json
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/bin/Debug/net8.0/CircleApp.Data.dll
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/bin/Debug/net8.0/CircleApp.Data.pdb
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.csproj.AssemblyReference.cache
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.AssemblyInfoInputs.cache
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.AssemblyInfo.cs
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.csproj.CoreCompileInputs.cache
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.sourcelink.json
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.dll
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/refint/CircleApp.Data.dll
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.pdb
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/CircleApp.Data.genruntimeconfig.cache
+/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/obj/Debug/net8.0/ref/CircleApp.Data.dll

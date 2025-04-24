@@ -272,3 +272,5 @@
 /Users/zeyneb/Desktop/CircleApp/CircleApp/obj/Debug/net8.0/CircleApp.pdb
 /Users/zeyneb/Desktop/CircleApp/CircleApp/obj/Debug/net8.0/CircleApp.genruntimeconfig.cache
 /Users/zeyneb/Desktop/CircleApp/CircleApp/obj/Debug/net8.0/ref/CircleApp.dll
+/Users/zeyneb/Desktop/CircleApp/CircleApp/bin/Debug/net8.0/CircleApp.Data.dll
+/Users/zeyneb/Desktop/CircleApp/CircleApp/bin/Debug/net8.0/CircleApp.Data.pdb

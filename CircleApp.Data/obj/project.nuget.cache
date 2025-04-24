@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/hh5IESugKnol5EhAT6qpGcthGMn78mbaX4Xlroz7MKowiv0RqILNzpMSo2DwX+cBBqBg6drNc/QULXOUdC/Nw==",
+  "dgSpecHash": "IDD/RoYwd+HbV7spn8bSc/cb10qHhT3cFHTdjp3aXD4zVPLXJ1FTKDrzViN02aCtFOXfeBuNig4OnlwUiSv6Sg==",
   "success": true,
-  "projectFilePath": "/Users/zeyneb/Desktop/CircleApp/CircleApp/CircleApp.csproj",
+  "projectFilePath": "/Users/zeyneb/Desktop/CircleApp/CircleApp.Data/CircleApp.Data.csproj",
   "expectedPackageFiles": [
     "/Users/zeyneb/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/zeyneb/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",
