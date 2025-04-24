@@ -22,12 +22,12 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Shared/Modals/_CreateStory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL01vZGFscy9fQ3JlYXRlU3RvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/zeyneb/Desktop/CircleApp/CircleApp/Views/Shared/Navigation/_SideBar.cshtml]

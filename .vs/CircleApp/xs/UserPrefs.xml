@@ -9,13 +9,8 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CircleApp">
-            <Node name="CircleApp">
-              <Node name="Views">
-                <Node name="Home" expanded="True" />
-                <Node name="Shared" expanded="True" />
-              </Node>
-            </Node>
+          <Node name="CircleApp" expanded="True">
+            <Node name="CircleApp" expanded="True" />
           </Node>
         </State>
       </Pad>
