@@ -8,4 +8,8 @@
 
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <Folder Include="wwwroot\images\avatar\" />
+  </ItemGroup>
+
 </Project>
